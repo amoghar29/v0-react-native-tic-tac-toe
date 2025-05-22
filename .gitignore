@@ -1,0 +1,62 @@
+# Node modules
+node_modules/
+
+# Expo files
+.expo/
+.expo-shared/
+
+# macOS system files
+.DS_Store
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+expo-debug.log
+
+# Android
+android/
+*.apk
+*.ap_ 
+*.dex
+*.class
+
+# iOS
+ios/
+*.xcworkspace
+*.xcodeproj
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+xcuserdata/
+*.xcuserstate
+*.xcsettings
+
+# VS Code
+.vscode/
+
+# Env files
+.env
+.env.*
+
+# Metro bundler cache
+metro-cache/
+.cache/
+
+# TypeScript build
+dist/
+build/
+*.tsbuildinfo
+
+# Watchman
+.watchmanconfig
+
+# Web build (if using Expo for Web)
+web-build/
+
+# EAS (Expo Application Services) credentials (keep secret)
+*.keystore
+*.p8
+*.pem
+*.jks
